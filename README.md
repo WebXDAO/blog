@@ -1,9 +1,2 @@
-# Welcome to Blogging Category
-
-Community members can write blogs related to web3community. To get support from this community, you need to tag [@web3community](https://twitter.com/web3community) on Twitter, so we can retweet your post. You can also add your blog to this repository by making an [issue](https://github.com/web3community/blog/issues), then the community will review your blog before you can make Pull Request to add your blog to this repository.
-
-| Latest Blog |
-| :-- | 
-| 1. [Introducing Web 3 Community](https://dev.to/vinzvinci/introducing-web-3-community-3co5) |
-| 2. [Helping your favorite Open Source Project with Stakes.social](https://dev.to/vinzvinci/helping-your-favorite-open-source-project-with-stakes-social-dc8) |
-| 3. [Building your Open Source Project with Dev Dapp Starter Grants](https://dev.to/vinzvinci/building-your-open-source-project-with-dev-dapp-starter-grants-128l)
+<!-- markdownlint-disable-next-line -->
+<div align="center"><p><a href="https://app.netlify.com/sites/devprotocol/deploys"><img src="https://img.shields.io/netlify/bddfebe4-8553-4de6-9ddb-522ce7f67842?style=flat-square&logo=netlify"></a> <a href="https://discord.gg/VwJp4KM"><img src="https://img.shields.io/discord/547215761341546497?style=flat-square&logo=discord"></a></p><br><img height="70px" src="https://github.com/web3community.png"><br><h1>Web3community Blog</h1><br><p><a href="https://dev.to/web3community">Visit blog!</a> · <a href="#">Request a article</a> · <a href="#">Write for us 🍴</a></p></div>

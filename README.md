@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<div align="center"><p><a href="https://discord.gg/VwJp4KM"><img src="https://img.shields.io/discord/547215761341546497?style=flat-square&logo=discord"></a></p><br><img height="70px" src="https://github.com/web3community.png"><br><h1>Web3community Blog</h1><br><p><a href="https://dev.to/web3community">Visit blog</a> · <a href="#">Request a article</a> · <a href="#">Write for us 🍴</a></p></div>
+<div align="center"><p><a href="https://discord.gg/VwJp4KM"><img src="https://img.shields.io/discord/547215761341546497?style=flat-square&logo=discord"></a></p><br><img height="70px" src="https://github.com/web3community.png"><br><h1>Web3Community Blog</h1><br><p><a href="https://dev.to/web3community">Visit blog</a> · <a href="#">Request a article</a> · <a href="#">Write for us 🍴</a></p></div>
 
 ## 📕 Latest Articles
 
@@ -15,4 +15,4 @@
 
 The repository is licensed under [GNU Affero General Public License](https://github.com/web3community/blog/blob/main/LICENSE) while the content (blog posts) are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-**Note** You own all rights to all content you write for us.
+**Note**: You own all rights to all the content you write for us.

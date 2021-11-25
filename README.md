@@ -10,3 +10,9 @@
 - [Web 3 Community - Hacktoberfest 2021](https://dev.to/web3community/web-3-community-hacktoberfest-2021-41mi)
 - [Introducing Web3 Community](https://dev.to/web3community/introducing-web-3-community-3co5)
 <!-- BLOG-POST-LIST:END -->
+
+## 📃 License
+
+The repository is licensed under [GNU Affero General Public License](https://github.com/web3community/blog/blob/main/LICENSE) while the content (blog posts) are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+**Note** You own all rights to all content you write for us.

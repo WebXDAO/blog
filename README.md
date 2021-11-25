@@ -13,6 +13,6 @@
 
 ## 📃 License
 
-The repository is licensed under [GNU Affero General Public License](https://github.com/web3community/blog/blob/main/LICENSE) while the content (blog posts) are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The repository is licensed under [GNU Affero General Public License](https://github.com/web3community/blog/blob/main/LICENSE) while the content (blog posts) are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 **Note** You own all rights to all content you write for us.

@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<div align="center"><p><a href="https://discord.gg/VwJp4KM"><img src="https://img.shields.io/discord/547215761341546497?style=flat-square&logo=discord"></a></p><br><img height="70px" src="https://github.com/web3community.png"><br><h1>Web3Community Blog</h1><br><p><a href="https://dev.to/web3community">Visit blog</a> · <a href="#">Request a article</a> · <a href="#">Write for us 🍴</a></p></div>
+<div align="center"><p><a href="https://discord.gg/TSRwqx4K2v"><img src="https://img.shields.io/discord/835424705410236427?style=flat-square&logo=discord&colorB=5865F2"></a></p><br><img height="70px" src="https://github.com/web3community.png"><br><h1>Web3Community Blog</h1><br><p><a href="https://dev.to/web3community">Visit blog</a> · <a href="#">Request a article</a> · <a href="#">Write for us 🍴</a></p></div>
 
 ## 📕 Latest Articles
 

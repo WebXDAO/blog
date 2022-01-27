@@ -14,7 +14,7 @@ jobs:
       - name: Pull in hashnode posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/web3community"
+          feed_list: "https://dev.to/feed/webxdao"
           max_post_count: 7
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           description_max_length: 35
